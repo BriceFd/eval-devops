@@ -1,0 +1,15 @@
+2025-01-22T15:15:50.5618651+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-01-22T15:15:50.5910275+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-01-22T15:15:50.5930804+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-01-22T15:15:50.5931003+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 15:15:50.516
+2025-01-22T15:15:50.5958287+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 4216
+2025-01-22T15:15:50.5961062+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.12
+2025-01-22T15:15:50.5961230+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Private.CoreLib.dll
+2025-01-22T15:15:50.5961334+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-01-22T15:15:50.5961375+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\altis\OneDrive\Bureau\eval-devops\GuessingGame\bin\Debug\net8.0\UnitTest.UnitTests.dll
+2025-01-22T15:15:50.5963978+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\altis\OneDrive\Bureau\eval-devops\GuessingGame\bin\Debug\net8.0\Log --results-directory C:\Users\altis\OneDrive\Bureau\eval-devops\TestResults --client-port 53965'
+2025-01-22T15:15:50.5984609+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-01-22T15:15:50.6332694+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-01-22T15:15:50.6390125+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\altis\OneDrive\Bureau\eval-devops\GuessingGame\bin\Debug\net8.0\UnitTest.UnitTests.testconfig.json' not found.
+2025-01-22T15:15:50.6414133+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-01-22T15:15:50.8917730+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'

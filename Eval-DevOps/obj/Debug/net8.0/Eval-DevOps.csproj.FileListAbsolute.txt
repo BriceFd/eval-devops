@@ -1,0 +1,15 @@
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\obj\Debug\net8.0\Eval-DevOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\obj\Debug\net8.0\Eval-DevOps.AssemblyInfoInputs.cache
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\obj\Debug\net8.0\Eval-DevOps.AssemblyInfo.cs
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\obj\Debug\net8.0\Eval-DevOps.csproj.CoreCompileInputs.cache
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\obj\Debug\net8.0\Eval-DevOps.sourcelink.json
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\bin\Debug\net8.0\Eval-DevOps.exe
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\bin\Debug\net8.0\Eval-DevOps.deps.json
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\bin\Debug\net8.0\Eval-DevOps.runtimeconfig.json
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\bin\Debug\net8.0\Eval-DevOps.dll
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\bin\Debug\net8.0\Eval-DevOps.pdb
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\obj\Debug\net8.0\Eval-DevOps.dll
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\obj\Debug\net8.0\refint\Eval-DevOps.dll
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\obj\Debug\net8.0\Eval-DevOps.pdb
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\obj\Debug\net8.0\Eval-DevOps.genruntimeconfig.cache
+C:\Users\altis\OneDrive\Bureau\eval-devops\Eval-DevOps\obj\Debug\net8.0\ref\Eval-DevOps.dll
